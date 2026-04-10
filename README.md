@@ -1,5 +1,3 @@
-<img src="headshot.jpg" width="150" height="150" style="border-radius: 50%;" alt="Professional Headshot">
-
 # [DAVID MASHUDU KHAKHU] | IT Graduate, Human Resource Information Systems & System Administrator
 **Location:** [ Johannesburg, SA]  
 **Contact:** [dazekhakhu@gmail.com] | [https://www.linkedin.com/in/david-khakhu-53bba1312] | [0670518256]
