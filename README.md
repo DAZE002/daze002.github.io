@@ -46,4 +46,5 @@ Innovative IT Graduate with practical experience in **LMIS management** and **SE
 
 ## 📞 Let's Connect
 I am currently seeking opportunities in **Junior System Administration, Data Analysis, or IT Support**. 
-- [Click here to download my full Resume (file:///C:/Users/sanel/Downloads/___pdf_00fa0a4d-1a6d-4da5-8097-5f2abfa8554c_.pdf)]
+- [Download Full CV (PDF)](./David%20Mashudu%20Khakhu%20Resume.pdf)
+- [View Professional Reference Letter (PDF)](./Reference%20Letter.pdf)
