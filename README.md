@@ -1,5 +1,3 @@
-<img width="1100" height="486" alt="image" src="https://github.com/user-attachments/assets/21078c78-06b9-48c8-9a71-cb9040b84959" />
-
 # [DAVID MASHUDU KHAKHU] | IT Graduate, Human Resource Information Systems & System Administrator
 **Location:** [ Johannesburg, SA]  
 **Contact:** [dazekhakhu@gmail.com] | [https://www.linkedin.com/in/david-khakhu-53bba1312] | [0670518256]
