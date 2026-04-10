@@ -1,4 +1,4 @@
-# [DAVID MASHUDU KHAKHU] | IT Graduate & System Administrator
+# [DAVID MASHUDU KHAKHU] | IT Graduate, Human Resource Information Systems & System Administrator
 **Location:** [ Johannesburg, SA]  
 **Contact:** [dazekhakhu@gmail.com] | [https://www.linkedin.com/in/david-khakhu-53bba1312] | [0670518256]
 
@@ -12,7 +12,7 @@ Innovative IT Graduate with practical experience in **LMIS management** and **SE
 ## 🛠 Technical Toolbox
 * **Systems & Platforms:** LMIS (Learner Management Information Systems), SETA Portals (Agriseta, Cathsseta), Windows Server.
 * **Data Management:** Data Archiving, Quality Assurance, Database Maintenance.
-* **Tools:** Microsoft Excel (Advanced/VBA), SQL, [Add others: e.g., Python, Active Directory].
+* **Tools:** Microsoft Excel (Advanced/VBA), SQL, [Python, Active Directory].
 * **Compliance:** SETA Credit Verification, Document Auditing, POPIA Compliance.
 
 ---
@@ -31,16 +31,16 @@ Innovative IT Graduate with practical experience in **LMIS management** and **SE
 * **Action:** Developed a structured digital filing system and implemented an Excel-based tracking log to monitor document status in real-time.
 * **Result:** Improved document processing speed by [X]% and reduced missing file reports to zero.
 
-### 3. [Your Learning Project - e.g., Python Automation or SQL Lab]
-**Goal:** (e.g., Automating daily system checks).
-* **Action:** (e.g., Wrote a script to check for file changes in a directory).
+### 3. [Python Automation & SQL Lab]
+**Goal:** (Automating daily system checks).
+* **Action:** (Wrote a script to check for file changes in a directory).
 * **Result:** Demonstrated ability to apply programming logic to solve real-world IT admin tasks.
 
 ---
 
 ## 🎓 Education & Certifications
-* **[Your Degree/Diploma Name]** - [Institution Name] (Year)
-* **[Any Cert, e.g., CompTIA A+ or Google IT Support]** - (Year)
+* **[Bachelors Of Science In Information Technology]** - [Richfield Graduate Institute Of Technology] (2023)
+  
 
 ---
 
