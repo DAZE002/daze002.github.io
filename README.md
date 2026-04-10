@@ -40,9 +40,9 @@ Innovative IT Graduate with practical experience in **LMIS management** and **SE
 
 ### 4. 🛠 My Operational Process (The "Clean Data" Workflow)
  **Data Intake:** Verify raw learner data against POPIA compliance standards.
- **Platform Mapping:** Identify which SETA platform requirements apply (Agriseta vs. Cathsseta specific fields).
- **Migration & Upload:** Use Excel/SQL logic to clean data before batch uploading to the LMIS.
- **Verification:** Perform a post-upload audit to ensure credits are reflecting correctly for the learner.
+ * **Platform Mapping:** Identify which SETA platform requirements apply (Agriseta vs. Cathsseta specific fields).
+ * **Migration & Upload:** Use Excel/SQL logic to clean data before batch uploading to the LMIS.
+ * **Verification:** Perform a post-upload audit to ensure credits are reflecting correctly for the learner.
 ---
 
 ## 🎓 Education & Certifications
