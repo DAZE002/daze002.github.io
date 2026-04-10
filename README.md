@@ -25,7 +25,7 @@ Innovative IT Graduate with practical experience in **LMIS management** and **SE
 **Goal:** To resolve critical data discrepancies between internal records and SETA platforms.
 * **Situation:** National certificate qualifications and learner credits were not reflecting correctly on the Cathsseta and Agriseta portals, risking student graduation.
 * **Action:** Conducted a deep-dive audit of physical documents against the digital LMIS database. Manually corrected credit reset errors and re-synced data with the SETA platforms.
-* **Result:** Restored 100% data accuracy for [X number] of learners and secured the successful awarding of qualifications.
+* **Result:** Restored 100% data accuracy for [350] of learners and secured the successful awarding of qualifications.
 
 ### 2. Digital Archiving & Workflow Optimization
 **Goal:** Streamline the archiving process for productivity improvements.
