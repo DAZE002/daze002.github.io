@@ -38,12 +38,15 @@ Innovative IT Graduate with practical experience in **LMIS management** and **SE
 * **Action:** (Wrote a script to check for file changes in a directory).
 * **Result:** Demonstrated ability to apply programming logic to solve real-world IT admin tasks.
 
+
 ### 4. 🛠 My Operational Process (The "Clean Data" Workflow)
  **Data Intake:** Verify raw learner data against POPIA compliance standards.
  * **Platform Mapping:** Identify which SETA platform requirements apply (Agriseta vs. Cathsseta specific fields).
  * **Migration & Upload:** Use Excel/SQL logic to clean data before batch uploading to the LMIS.
  * **Verification:** Perform a post-upload audit to ensure credits are reflecting correctly for the learner.
+
 ---
+
 
 ## 🎓 Education & Certifications
 * **[Bachelors Of Science In Information Technology]** - [Richfield Graduate Institute Of Technology] (2023)
